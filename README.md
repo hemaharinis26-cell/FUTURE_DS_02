@@ -7,6 +7,8 @@ AnalyzeD customer data to identify churn patterns, key retention drivers, and cu
 
 This project focuses on analyzing customer retention and churn behavior using the Telco Customer Churn dataset. The objective was to identify why customers leave the platform, determine which customer segments are most likely to churn, understand customer lifetime patterns, and provide actionable recommendations to improve customer retention. Data cleaning was performed using Microsoft Excel, followed by dashboard development and analysis in Power BI. The final dashboard provides valuable insights into customer behavior and supports data-driven decision-making for customer retention strategies.
 
+---
+
 **Tools Used**
 
 Microsoft Excel – Data Cleaning and Preparation
@@ -14,6 +16,8 @@ Microsoft Excel – Data Cleaning and Preparation
 Power BI Desktop – Data Analysis and Dashboard Development
 
 GitHub – Project Documentation and Version Control
+
+---
 
 **Dashboard Visuals**
 
@@ -59,6 +63,8 @@ Internet Service
 
 Payment Method
 
+---
+
 **Business Questions & Answers**
 
 1.Why are customers leaving the platform?
@@ -95,6 +101,8 @@ Develop targeted retention campaigns for high-risk customer segments.
 
 Monitor customer behavior and proactively address churn indicators before customers leave the platform.
 
+---
+
 **Key Insights**
 
 Month-to-Month contracts have the highest customer churn rates.
@@ -109,13 +117,19 @@ Long-term contracts contribute to stronger customer loyalty.
 
 Customer engagement during the early stages of the subscription lifecycle plays a critical role in retention.
 
+---
+
 **Conclusion**
 
 This project successfully analyzed customer retention and churn behavior using the Telco Customer Churn dataset. Through data cleaning, visualization, and business analysis, the project identified key factors influencing customer attrition and highlighted opportunities for improving retention. The interactive Power BI dashboard provides meaningful insights that can support business decision-making and contribute to long-term customer loyalty.
 
+---
+
 **Dashboard preview**
 
 <img width="1446" height="1024" alt="churn png" src="https://github.com/user-attachments/assets/f5f75320-8784-4bc6-a315-72182a23b376" />
+
+---
 
 **Project Outcome**
 
